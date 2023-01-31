@@ -5,7 +5,7 @@
 
 </div>
 
-big data engineer, graduate of the ESTYA school in Paris. my areas of interest are: 
+big data engineer, graduate of ##ESTYA school in Paris. my areas of interest are: 
 
     1- DevOps
     2- AI (data science - data analytics - data engineering)
