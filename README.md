@@ -22,4 +22,4 @@ My general interest revolves around:
 
 ### Machine Learning: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### Machine Learning: ![Jenkins](https://img.shields.io/badge/Jenkins-%23EE4C2C.svg?style=for-the-badge&logo=Jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-005571?style=for-the-badge&logo=Docker) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+### DevOps: ![Jenkins](https://img.shields.io/badge/Jenkins-%23EE4C2C.svg?style=for-the-badge&logo=Jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-005571?style=for-the-badge&logo=Docker) ![Terraform](https://img.shields.io/badge/Terraform-%23150458.svg?style=for-the-badge&logo=Terraform&logoColor=white)
