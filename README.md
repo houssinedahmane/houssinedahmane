@@ -9,9 +9,9 @@ Big data engineer, graduate of <b>ESTYA school</b> in Paris.
 
 My general interest revolves around: 
 
-    1- DevOps
-    2- AI (data science - data analytics - data engineering)
-    3- web development  
+    <p> 1 - DevOps</p>
+    <p> 2- AI (data science - data analytics - data engineering)</p>
+    <p> 3- web development </p>
 
 ## 💻Tech Stack
 
