@@ -1,30 +1,48 @@
-### Hi there 👋
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-houssinedahmane?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/houssinedahmane/)
 [![Gmail](https://img.shields.io/badge/Gmail-houssine.dahmane48@gmail.com-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:houssine.dahmane48@gmail.com?subject=Hey!)
 
 </div>
 
-Big data engineer, graduate of <b>ESTYA school</b> in Paris. 
+# Hi there, I'm **Houssine** 👋
 
-My general interest revolves around: 
+## 👨‍💻 About Me
+I'm a DevOps Cloud Engineer with two years of experience in designing, implementing, and managing cloud infrastructure. I have a strong background in automating deployment processes, optimizing cloud resources, and ensuring reliable and scalable infrastructure for software applications.
 
-    1 - DevOps
-    2 - AI (data science - data analytics - data engineering)
-    3 - Web development
+## 💼 Professional Experience
 
-## 💻Tech Stack
+- **[Atos france]** - [devops & cloud engineer] (2023 - Present)
+  - Collaborated with cross-functional teams to design and implement cloud infrastructure solutions.
+  - Developed and maintained CI/CD pipelines for automated application deployment.
+  - Implemented monitoring and alerting systems to ensure high availability and performance of cloud resources.
+  - Worked closely with development teams to optimize application performance and scalability.
 
-### Languages:  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+- **[Thales Group]** - [support engineer and software workshop development] (2021 - 2022) 
+  - Automation of manual processes carried out by the DMS Engineering Support chain.
+  - Realization of requests for the evolution of the existing tool on the Symfony Framework.
+  - Realization of the software life cycle in its entirety, on various languages ​​and operating systems.
+  - **Environnement:** Jira, Jenkins, SonarQube, Artifactory, Symfony, PostgreSQL , Git, Wampserver
 
-### Web Dev: ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+## ⚡ Skills
+- Cloud Platforms: AWS, Google Cloud
+- Infrastructure-as-Code: Terraform, CloudFormation
+- Configuration Management: Ansible
+- Containerization: Docker, Kubernetes
+- Continuous Integration/Deployment: Jenkins, GitLab CI/CD.
+- Scripting Languages: Python, Bash
+- Monitoring and Logging: Prometheus, Grafana, ELK Stack
+- Version Control: Git, GitHub,bitbucket
 
+## 🌱 Certifications
+- AWS Certified practitionner - Professional
 
-### Machine Learning: ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-
-### DevOps: ![Jenkins](https://img.shields.io/badge/Jenkins-%23EE4C2C.svg?style=for-the-badge&logo=Jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-005571?style=for-the-badge&logo=Docker) ![Terraform](https://img.shields.io/badge/Terraform-%23150458.svg?style=for-the-badge&logo=Terraform&logoColor=white)
+## 📫 Contact Me
+- LinkedIn: [https://www.linkedin.com/in/houssinedahmane/](https://www.linkedin.com/in/houssinedahmane/)
+- Email: [houssine.dahmane48@gmail.com]
 
 
 # Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=houssinedahmane&show_icons=true&theme=calm" align="left" style="width: 50%" />
+
