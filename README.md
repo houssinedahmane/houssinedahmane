@@ -8,7 +8,7 @@
 # Hi there, I'm **Houssine** 👋
 
 ## 👨‍💻 About Me
-I'm a DevOps Cloud Engineer with two years of experience in designing, implementing, and managing cloud infrastructure. I have a strong background in automating deployment processes, optimizing cloud resources, and ensuring reliable and scalable infrastructure for software applications.
+I'm a DevOps & Cloud Engineer with two years of experience in designing, implementing, and managing cloud infrastructure. I have a strong background in automating deployment processes, optimizing cloud resources, and ensuring reliable and scalable infrastructure for software applications.
 
 ## 💼 Professional Experience
 
