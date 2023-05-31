@@ -42,7 +42,15 @@ I'm a DevOps Cloud Engineer with two years of experience in designing, implement
 - Email: [houssine.dahmane48@gmail.com]
 
 
+
+# 🚀 Featured Projects
+
+Here are some of my notable projects:
+
+1. [Nodejs-Apis](https://github.com/houssinedahmane/Nodejs-Apis.git)
+2. [DevOps-Training](https://github.com/houssinedahmane/DevOps-Training.git)
+
+
 # Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=houssinedahmane&show_icons=true&theme=calm" align="left" style="width: 50%" />
-
